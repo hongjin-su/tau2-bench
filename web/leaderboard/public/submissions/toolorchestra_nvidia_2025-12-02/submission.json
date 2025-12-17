@@ -1,8 +1,8 @@
 {
   "model_name": "ToolOrchestra",
-  "model_organization": "Nvidia",
+  "model_organization": "NVIDIA",
   "submitting_organization": "Nvidia",
-  "submission_date": "2024-12-02",
+  "submission_date": "2025-12-18",
   "contact_info": {
     "email": "hjsu@cs.hku.hk",
     "name": "H. Su"
@@ -44,7 +44,7 @@
   "references": [
     {
       "title": "ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration",
-      "url": "https://github.com/NVlabs/ToolOrchestra/tree/main/evaluation/tau2-bench",
+      "url": "https://github.com/NVlabs/ToolOrchestra",
       "type": "github"
     }
   ]
